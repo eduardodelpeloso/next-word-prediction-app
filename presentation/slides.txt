@@ -1,0 +1,7 @@
+all n-grams from a sample of 5 %: 839.4 MB
+keep only n-grams with >= 2 counts: 733.3 MB
+change factors in 1st column to characters: 60.8 MB (- 92.8 %)
+---
+all n-grams from a sample of 5 %: 839.4 MB
+change factors in 1st column to characters: 761.9 MB
+keep only n-grams with >= 2 counts: 60.8 MB (- 92.8 %)
