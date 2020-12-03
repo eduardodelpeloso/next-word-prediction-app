@@ -1,9 +1,0 @@
-name: WordPredict
-account: eduardodelpeloso
-server: shinyapps.io
-appId: 127722
-bundleId: 572012
-url: https://eduardodelpeloso.shinyapps.io/WordPredict/
-when: 1475156153.33749
-asMultiple: FALSE
-asStatic: FALSE
